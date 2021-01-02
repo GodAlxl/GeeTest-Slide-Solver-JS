@@ -1,1 +1,5 @@
-"# GeeTest-Slide-Solver-JS" 
+GeeTest-Slide-Solver-JS
+
+Work in progress...
+
+
